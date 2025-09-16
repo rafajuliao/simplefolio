@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/cobidev/simplefolio#readme",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
