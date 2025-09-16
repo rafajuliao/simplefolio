@@ -19,6 +19,9 @@
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
   "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "engines": {
+    "node": "18.x"
+  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
